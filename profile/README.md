@@ -53,12 +53,12 @@
 ---
 
 ## 📄 ERD
-![erd.png](../document/erd.png)
+![erd.png](erd.png)
 
 ---
 
 ## 📜 API 문서
-![api.png](../document/api.png)
+![api.png](api.png)
 
 ---
 ## ✋ 조원 정보
