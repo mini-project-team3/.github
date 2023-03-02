@@ -53,12 +53,12 @@
 ---
 
 ## 📄 ERD
-![erd.png](erd.png)
+![ERD](https://github.com/mini-project-team3/BE/blob/develop/document/erd.png?raw=true)
 
 ---
 
 ## 📜 API 문서
-![api.png](api.png)
+![API](https://github.com/mini-project-team3/BE/blob/develop/document/api.png?raw=true)
 
 ---
 ## ✋ 조원 정보
